@@ -3,8 +3,7 @@ Nukkit multi version server config ( MCPE Server )<br>Bedrock Edition
 
 ## Support Version
 MCBE Server
-Bedrock Edition: 1.8.X - 1.19.X
-Next Update: 1.8.X - 1.20.X
+Bedrock Edition: 1.8.X - 1.19.X<br>Next Update: 1.8.X - 1.20.X
 
 ### How to using ?
 1. Download [Release](https://github.com/XxHosseinJoonZxX/Nukkit/releases)
